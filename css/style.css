@@ -1,0 +1,82 @@
+body {
+	color: blue;
+	font-family: Arial, Helvetica, sans-serif;
+}
+div {
+	color: black;
+}
+div p.parahraf3.text {
+	color: saddlebrown;
+	white-space: pre-line;
+}
+div div p {
+	color: salmon;
+	word-spacing: 20px;
+}
+div div ul li {
+	text-indent: 15px;
+}
+div h1 {
+	font-family: monospace;
+	font-size: 25px;
+	text-shadow: 3px 3px 3px rgb(102, 67, 94);
+	line-height: 5;
+}
+.schrift {
+	color: blueviolet;
+}
+.schrift .parahraf2 {
+	color: rgb(120, 155, 155);
+}
+.schrift .text {
+	color: red;
+	font-weight: bolder;
+}
+
+h2 {
+	color: sandybrown;
+	text-align: center;
+}
+h4 {
+	color: springgreen;
+	font-style: italic;
+}
+.definition {
+	color: thistle;
+}
+ul {
+	color: rgb(163, 163, 99);
+}
+ul li a {
+	color: red;
+}
+
+ul li li {
+	color: rgb(128, 81, 128);
+}
+.parag {
+	color: yellowgreen;
+}
+
+.parahraf1 {
+	font-family: serif;
+}
+.parahraf2 {
+	font-family: sans-serif;
+}
+.parahraf3 {
+	font-family: cursive;
+}
+p {
+	font-family: fantasy;
+}
+mark {
+	font-style: oblique;
+	text-decoration: underline;
+}
+.hrough {
+	text-decoration: line-through;
+}
+span {
+	text-decoration: overline;
+}
